@@ -4,6 +4,7 @@ A RelayApp frontend template built with React 18 + TypeScript + Vite, using rela
 
 ## Features
 
+- Node.js: 20.0 or higher
 - Complete relayx-api usage examples
 - Dynamic forms and real-time result display
 - React 18 + TypeScript + Ant Design
